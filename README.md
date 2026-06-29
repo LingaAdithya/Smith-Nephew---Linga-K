@@ -182,7 +182,8 @@ The dashboard enables planners to:
 ---
 
 ## Dashboard Preview
-<img width="2004" height="1132" alt="image" src="https://github.com/user-attachments/assets/bbbb9bee-191b-454e-b807-433e54612e6f" />
+<img width="2004" height="1132" alt="image" src="https://github.com/user-attachments/assets/393cad93-025d-4997-983d-61aac7baf6f1" />
+
 
 
 ## Author
